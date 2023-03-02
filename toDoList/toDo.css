@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Shantell Sans', cursive;
+}
+
+.container {
+    position: relative;
+    width: 70%;
+    margin: 0 auto;
+}
+
+.genel {
+    text-align: center;
+    background-color: #674d03;
+    color: #ffd96a;
+    padding-top: 70px;
+    padding-bottom: 40px;
+    width: 100%;
+
+}
+
+.input {
+    width: 400px;
+    height: 30px;
+    border-radius: 10px;
+    margin-top: 12px;
+    font-size: 15px;
+}
+
+.addBtn {
+    height: 30px;
+    width: 50px;
+    border-radius: 10px;
+}
+
+.divList {
+    background-color: #ffd96a;
+}
+
+li.checked {
+    background-color: rgb(11, 164, 11);
+    text-decoration: line-through;
+    list-style-type: "✔ ";
+}
+
+
